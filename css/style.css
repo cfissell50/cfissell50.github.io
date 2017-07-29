@@ -14,6 +14,8 @@ a {
 }
 
 .navbarimg {
+
+  width: 40%;
   margin-left: 40%;
 }
 
@@ -24,9 +26,6 @@ a {
   padding-right: 20px;
 }
 
-li:hover {
-    color: blue;
-}
 
 h2 {
   font-size: 100px;
