@@ -1,0 +1,32 @@
+body {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+
+}
+
+.navbarimg {
+  margin-left: 40%;
+}
+
+.navbar ul {
+  float: right;
+  list-style: none;
+  display: inline-block;
+}
+
+.navbar li:hover {
+  color: rgba(255, 0, 0, 0.5);
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  margin-left: 50%;
+  font-size: 25px;
+}
+
+.comment {
+  width: 20%;
+  height: 15%;
+}
