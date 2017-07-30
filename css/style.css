@@ -31,7 +31,6 @@ a:hover {
 }
 
 h4 {
-  width: 100%;
   float: left;
   margin-left: 20%;
   margin-bottom: 100px;
@@ -68,6 +67,12 @@ p {
   width: 40%;
   float: left;
   margin-right: 20px;
+}
+
+.ownerpic {
+  width: 25%;
+  float: left;
+  padding: 50px;
 }
 
 .cismsg {
