@@ -33,6 +33,7 @@ a:hover {
 
 h2 {
   font-size: 100px;
+  text-align: center;
 }
 
 
@@ -40,6 +41,7 @@ h3 {
   margin-top: 300px;
   margin-left: 43%;
   font-size: 75px;
+  text-align: center;
 }
 
 p {
@@ -56,4 +58,9 @@ p {
   width: 20%;
   height: 50px;
   text-align: center;
+  margin-left: 40%;
+}
+
+input {
+  margin-left: 43%;
 }
