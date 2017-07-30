@@ -57,7 +57,8 @@ h3 {
 }
 
 .rates {
-  margin-left: 10%
+  margin-left: 10%;
+  clear: both;
 }
 
 p {
@@ -121,8 +122,4 @@ input {
 .collinbio {
   margin-left: 10%;
   margin-top: 100px;
-}
-
-input [type:"submit"] {
-  background-color: gold;
 }
