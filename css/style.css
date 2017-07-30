@@ -111,6 +111,16 @@ input {
 .collinbio h4 {
   margin-top: 100px;
 }
+
+#owners img {
+
+  margin-top: 30px;
+}
+
+#owners p {
+  margin-top: -30px;
+}
+
 .jbio {
   clear: both;
 }
