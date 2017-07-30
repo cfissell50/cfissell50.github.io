@@ -18,7 +18,6 @@ a:hover {
 }
 
 .navbarimg {
-
   width: 40%;
   margin-left: 40%;
 }
@@ -51,6 +50,10 @@ h3 {
   width: 50%;
   text-align: center;
   color: gold;
+}
+
+#prob {
+  clear: both;
 }
 
 .rates {
@@ -96,8 +99,6 @@ input {
   margin-top: 100px;
 }
 .jacbio {
-  width: auto;
-  float: left;
   margin-left: 10%;
 }
 
@@ -105,8 +106,23 @@ input {
   padding: 20px;
 }
 
+.collinbio h4 {
+  margin-top: 100px;
+}
+.jbio {
+  clear: both;
+}
+
+.cfbio {
+  clear: both;
+}
+
 
 .collinbio {
   margin-left: 10%;
   margin-top: 100px;
+}
+
+input [type:"submit"] {
+  background-color: gold;
 }
