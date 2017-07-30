@@ -46,6 +46,7 @@ h2 {
 
 
 h3 {
+  display: inline-block;
   margin-top: 300px;
   margin-left: 43%;
   font-size: 75px;
@@ -63,6 +64,7 @@ p {
 .cheers {
   width: 40%;
   float: left;
+  margin-right: 20px;
 }
 
 .cismsg {
@@ -71,15 +73,14 @@ p {
 }
 
 .comment {
-  width: 20%;
+  width: 500px;
   height: 200px;
   text-align: center;
   margin-left: 40%;
 }
 
 input {
-  font-size: 30px;
+  font-size: 20px;
   margin-left: 43%;
   border-radius: 5%;
-  background-color:
 }
