@@ -96,11 +96,16 @@ input {
 .jacbio {
   width: 30%;
   float: left;
-
+  margin-left: 10%;
 }
+
+#owners p {
+  padding: 20px;
+}
+
 
 .collinbio {
   width: 30%;
-  float: right;
-
+  float: left;
+  margin-left: 10%;
 }
