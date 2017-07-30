@@ -46,13 +46,16 @@ h2 {
 
 
 h3 {
-  display: inline-block;
-  margin-top: 300px;
+  margin-top: 200px;
   margin-left: 43%;
   font-size: 75px;
-  width: 100%;
+  width: 50%;
   text-align: center;
   color: gold;
+}
+
+.rates {
+  margin-left: 10%
 }
 
 p {
