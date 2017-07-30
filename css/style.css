@@ -92,6 +92,7 @@ p {
 }
 
 input {
+  background-color: rgba(207,181,59, .3);
   font-size: 20px;
   margin-left: 43%;
   border-radius: 5%;
@@ -136,8 +137,8 @@ input {
 }
 
 .bottomribbon {
-  margin: none;
-  font-size: 15px;
-  text-align: none;
+  margin: none !important;
+  font-size: 15px !important;
+  text-align: left !important;
   text-decoration: overline underline;
 }
