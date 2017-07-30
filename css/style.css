@@ -92,7 +92,9 @@ input {
   margin-left: 43%;
   border-radius: 5%;
 }
-
+#contact {
+  margin-top: 100px;
+}
 .jacbio {
   width: auto;
   float: left;
@@ -106,4 +108,5 @@ input {
 
 .collinbio {
   margin-left: 10%;
+  margin-top: 100px;
 }
