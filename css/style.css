@@ -88,13 +88,14 @@ p {
   width: 500px;
   height: 200px;
   text-align: center;
-  margin-left: 40%;
+  margin-left: 32%;
 }
 
 input {
   font-size: 20px;
   margin-left: 43%;
   border-radius: 5%;
+  margin-top: 100px;
 }
 #contact {
   margin-top: 100px;
@@ -122,4 +123,11 @@ input {
 .collinbio {
   margin-left: 10%;
   margin-top: 100px;
+}
+
+.bottomribbon {
+  margin: none;
+  font-size: 15px;
+  text-align: none;
+  text-decoration: overline underline;
 }
